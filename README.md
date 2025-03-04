@@ -21,9 +21,7 @@ huggingface-cli login --token "${your_access_token}"
 
 ## Run Reward Learning SFT
 
-```
-bash run_RFT.sh
-```
+Right now for the RFT algorithm, we are migrating the algorithm to a new codebase https://github.com/Hong-Lab-UMN-ECE/IRLAlignment dedicated for IRL for fine-tuning. Please refer to the codebase for future use.
 
 ## Run Implicit Reward Learning SFT
 ```
